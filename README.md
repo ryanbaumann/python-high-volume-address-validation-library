@@ -14,7 +14,7 @@ The program takes a `csv` file. It then uses the API key configured in `config.y
 ### Authentication
 
 You will need an API Key to call the Address Validation API.
-[Generate your API](https://developers.google.com/maps/get-started#api-key) key by following instructions here.
+[Enable the Address Validation API](https://console.cloud.google.com/apis/library/addressvalidation.googleapis.com) and [generate your API](https://developers.google.com/maps/get-started#api-key) key by following instructions here.
 
 ### Running Modes
   
